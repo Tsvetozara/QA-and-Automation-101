@@ -1,13 +1,26 @@
-Description: 
+Summary: 
 
-Steps to reproduce 
+Priority: 
 
-1. 
+Assignee: 
+Reporter: 
+
+Date: 
+
+Steps to reproduce:
+1.
 2.
 3.
 4.
 5.
+6.
 
-Environment:
 
+Expected result:
+Actual result:
 
+Environment: 
+
+Screenshot: 
+
+Repoducible: 
