@@ -2,9 +2,6 @@ Summary:
 
 Priority: 
 
-Assignee: 
-Reporter: 
-
 Date: 
 
 Steps to reproduce:
